@@ -29,3 +29,6 @@ Um die Air-Gates nicht nur auf dem Boden abstellen zu können, gibt es jetzt noc
 ![T-Verbinder](/Media/T-Verbinder_01.png)
 
 ![Endkappe](/Media/EndKappe_01.png)
+
+## Arduino Nano - Steuerung
+Im Augenblick befindet sich die Steuerung noch in der Entwicklung. Diese wird aber in den nächsten Tagen in den Testbetrieb übergeführt werden. Wenn da dann soweit alles gut funktioniert, wird es ein fertiges PCB geben.
